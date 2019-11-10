@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.0.0-alpha.7",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.9"
+  }
+}
